@@ -9,7 +9,7 @@
 * You should use a virtual environment when running python programs
 * (For Linux)
 * cd xrp-alert
-* python3 -m venv <any-word>
+* python3 -m venv (any-word)
 * source any-word/bin/activate
 * pip3 install requests
 * pip3 install playsound    

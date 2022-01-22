@@ -13,6 +13,6 @@
 * source any-word/bin/activate
 * pip3 install requests
 * pip3 install playsound    
-* DO NOT USE <SUDO PIP3> COMMAND THIS WILL INSTALL GLOBALLY  
+* DO NOT USE *SUDO PIP3* COMMAND THIS WILL INSTALL GLOBALLY  
   
 * There now you have a virtual environment!  
